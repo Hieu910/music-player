@@ -30,51 +30,51 @@ const app= {
         {
           name: "Boom Boom Boom Boom",
           singer: "Vengaboys",
-          path: "/asset/music/boom boom boom boom - vengaboys.mp3",
+          path: "./asset/music/boom boom boom boom - vengaboys.mp3",
           image: "https://i.ytimg.com/vi/jTLhQf5KJSc/maxresdefault.jpg"
         },
         {
           name: "She wanna go",
           singer: "Colby O Donis ft Paul Wall - DJ Elvis Lucio remix",
-          path: "/asset/music/colby o donis ft paul wall - she wanna go - dj elvis lucio remix.mp3",
+          path: "./asset/music/colby o donis ft paul wall - she wanna go - dj elvis lucio remix.mp3",
           image:
             "https://1.bp.blogspot.com/-kX21dGUuTdM/X85ij1SBeEI/AAAAAAAAKK4/feboCtDKkls19cZw3glZWRdJ6J8alCm-gCNcBGAsYHQ/s16000/Tu%2BAana%2BPhir%2BSe%2BRap%2BSong%2BLyrics%2BBy%2BRaftaar.jpg"
         },
         {
           name: "Dark soul III Main Theme",
           singer: "Dark soul III",
-          path: "/asset/music/Dark Souls III  - Main Theme.mp3",
+          path: "./asset/music/Dark Souls III  - Main Theme.mp3",
           image: "https://banthe247.com/pictures/images/dark-souls-3%20(8)-min.jpg"
         },
         {
           name: "Prelude",
           singer: "Nobuo Uematsu",
-          path: "/asset/music/Final Fantasy Brave Exvius - Prelude (OST).mp3",
+          path: "./asset/music/Final Fantasy Brave Exvius - Prelude (OST).mp3",
           image: "https://a10.gaanacdn.com/images/song/39/24225939/crop_480x480_1536749130.jpg"
         },
         {
           name: "Reloaded games music",
           singer: "Reloaded games",
-          path: "/asset/music/reloaded games music (2014).mp3",
+          path: "./asset/music/reloaded games music (2014).mp3",
           image:
             "https://a10.gaanacdn.com/images/albums/72/3019572/crop_480x480_3019572.jpg"
         },
         {
           name: "Team",
           singer: "Lorde",
-          path: "/asset/music/team-lorde-3084164-1.mp3",
+          path: "./asset/music/team-lorde-3084164-1.mp3",
           image: "https://i.ytimg.com/vi/QvswgfLDuPg/maxresdefault.jpg"
         },
         {
           name: "Tình nhi nữ",
           singer: "Hòa tấu",
-          path: "/asset/music/TinhNuNhi-HoaTau-3089111.mp3",
+          path: "./asset/music/TinhNuNhi-HoaTau-3089111.mp3",
           image: "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
         },
         {
             name: "Vì yêu",
             singer: "Kasim Hoàng Vũ",
-            path: "/asset/music/viyeuremix2014-djrumbarcadikasimhoangvu-3292689.mp3",
+            path: "./asset/music/viyeuremix2014-djrumbarcadikasimhoangvu-3292689.mp3",
             image: "https://a10.gaanacdn.com/gn_img/albums/YoEWlabzXB/oEWlj5gYKz/size_xxl_1586752323.webp"
         },
       ],
